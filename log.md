@@ -19,4 +19,31 @@ https://teamtreehouse.com/tracks/beginning-javascript
 https://www.aimee-tacchi.co.uk
 https://teamtreehouse.com/library/javascript-loops-arrays-and-objects
 
+### Day 3: Tuesday - March 27, 2018
+
+**Today's Progress**: Day 3 of #100DaysOfCode done plenty today, made a 404 page in Angular at work, more JS treehouse course and made this simple random image viewer. https://codepen.io/darkxangel84/pen/LdOvKO will prob add to this!!
+
+**Thoughts:** Had Fun
+
+### Day 4: Wednesday - March 28, 2018
+
+**Today's Progress**: Day 4 of #100DaysOfCode more of the js treehouse course and was looking at animate.css today following traversymedia youtube vid Thanks ;D
+
+**Thoughts:** Good stuff!
+
+### Day 5: Thrusday - March 29, 2018
+
+**Today's Progress**: Day 5 of #100DaysOfCode wow that's gone fast! Today I've been doing some Angular and NodeJS also attended @GirlsCodeMK NodeSchool at Bletchley Park in Milton Keynes - https://nodeschool.io/
+
+**Thoughts:** fun evening - npm install -g learnyounode 
+learnyounode
+
+### Day 6: Friday - March 30, 2018
+GOOD FRIDAY TODAY
+
+**Today's Progress**:
+
+
+
+
 
