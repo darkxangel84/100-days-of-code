@@ -17,6 +17,7 @@ https://teamtreehouse.com/tracks/beginning-javascript
 
 **Link to work:**
 https://www.aimee-tacchi.co.uk
+
 https://teamtreehouse.com/library/javascript-loops-arrays-and-objects
 
 ### Day 3: Tuesday - March 27, 2018
