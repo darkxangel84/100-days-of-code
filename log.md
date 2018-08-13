@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+// Week 1
+
 ### Day 1: Sunday - March 25, 2018
 **Today's Progress**: Signed back up to treehouse and completed - Introducing JavaScript course.
 **Thoughts:** Very interesting course, will be good to have a javascript refresher.
@@ -40,7 +42,7 @@ Easter Sunday
 **Today's Progress**: Day 8 - completed JS Arrays, Loops and Objects @treehouse course! great refresher for me! Hope everyone has had a nice Easter Sunday!
 
 
-
+// Week 2
 
 ### Day 9: Monday - April 02, 2018
 Easter Monday
@@ -65,7 +67,7 @@ Easter Monday
 **Today's Progress**: Day 15 - I started treehouse Angular basics course today, just shows how much Angular I know now. Which is great. Happy happy also started to use visual studio code
 
 
-
+// Week 3
 
 ### Day 16: Monday - April 09, 2018
 **Today's Progress**: Day 16 - wow it's flying by. More Angular treehouse course today. Building a photo blog app. it's so great to know all the things I have learnt over the last 6 months. whizzing through this grabbing some badges. 
@@ -89,7 +91,7 @@ Easter Monday
 **Today's Progress**: Day 22 - weekend over.. I've haven't done much today, just done this @treehouse course - Build an Alexa Skill. I may have to try making one!
 
 
-
+// Week 4
 
 ### Day 23: Monday - April 16, 2018
 **Today's Progress**: Day 23 - more wordpressAPI managed to get all the content, titles, images and the url route changes when you click the links. Also signed up 2 Heroku 2night, deployed a nodejs demo. Having trouble with postgreSQL & XAMPP on windows10. Any Help please!
@@ -113,6 +115,7 @@ Easter Monday
 **Today's Progress**: Day 29 - Went out in the garden to code for a bit today, done some more of my freelance project. Site's coming along nicely. 
 
 
+// Week 5
 
 ### Day 30: Monday - April 23, 2018
 **Today's Progress**: Day 30 - Back on the WordPressApi, page content loads on load now! Using ngOnit angular also whizzed through some of the FrontEnd track codes courses  HTML5, CSS on treehouse to grab them badges I know the basics :) happy Monday! 🇬🇧
@@ -138,7 +141,7 @@ Easter Monday
 // IN FRANCE ----
 
 
-
+// Week 6
 
 ### Day 37: Monday - April 30, 2018
 **Today's Progress**: Day 37 - back in England󠁧󠁢󠁥󠁮󠁧󠁿 got home at 1.30am 🕜 been at work started a new Angular project and did a bit of freeCodeCamp intermediate Algorithms javascript they are hard!!
@@ -165,7 +168,7 @@ Easter Monday
 **Today's Progress**: Day 43 - nearly finished treehouse javascript and the DOM.
 
 
-
+// Week 7
 
 ### Day 44: Monday - May 7, 2018
 **Today's Progress**: Day 44 - its been so hot ☀ today! Finished treehouse javascript and the DOM and done Debugging CSS with chrome devTools! :)
@@ -192,6 +195,7 @@ Easter Monday
 
 
 // HALF WAY MARK ======
+// Week 8
 
 ### Day 51: Monday - May 14, 2018
 **Today's Progress**: Day 51 - I've been regoing over my #Sass today learnt a few new things to add to my Sass tool box. Did a Sass Basics course on @treehouse by @guilh good course. Also bought one on @udemy. Happy Monday 😊 #frontenddev
@@ -215,7 +219,7 @@ Easter Monday
 **Today's Progress**: Day 57 - today I've connected to the Nasa imageapi you can do a search and it returns you a bunch of images based on that search. Built in vanillaJavascript. Love doing this stuff
 
 
-
+// Week 9
 
 ### Day 58: Monday - May 21, 2018
 **Today's Progress**: Day 58 - I haven't had time to do a whole lot today. I have added some colours to my Joke application. And used math.Random to pick one of one jokes from the api. One more day of work and I'm off on my travels again can't wait!!!
@@ -234,6 +238,9 @@ Easter Monday
 //=================
  -- 2 half week gap - Due to being in Japan
  //=================
+ 
+ // June
+ // Week 10
  
 ### Day 62: Monday - Jun 11, 2018
 **Today's Progress**: Day 62 - 2 & 1/2 weeks later! Well, today didn't start off well! my car wouldn't move from the drive this morning, so had 2 have a day off work! needed a new Clutch! Managed 2 do 1 hour & a bit of Treehouse #jQuery course to get me back in the swing of things!
@@ -257,7 +264,7 @@ Easter Monday
 **Today's Progress**: Day 68 - been playing around with the Pokémon API tonight with AlexTestertoDev group project build a pokedex frontendwebdeveloper having problems fetching the JSON file though.. Saying about must be http or https for cors request.. But it's local..
 
 
-
+// Week 11
 
 ### Day 69: Monday - Jun 18, 2018
 **Today's Progress**: Day 69 - today's been good one, I'm finally getting back into the swing of things. Done some treehouse bootstrap refreshing today, learnt some new things too. Also played some more with the pokemonAPI with AlexTestertoDev
@@ -280,7 +287,7 @@ Easter Monday
 ### Day 75: Sunday - June 24, 2018
 **Today's Progress**: Day 75 - did some more of my clients site today, yay its nearly finished and some more freecodecamp finished the Applied Visual Deisgn section :)
 
-
+// Week 12
 
 ### Day 76: Monday - June 25, 2018
 **Today's Progress**: Day 76 - been doing some styling today at work on a website. css also been using this productive extension on Chrome called pomodorotimer 🍅 it's very useful. Also just finished another part of freeCodeCamp Applied Accessibility :)
@@ -301,42 +308,81 @@ Easter Monday
 
 // Missed Saturday and Sunday was in Dorset Camping for Weekend.
 
-
+// July
+// Week 13
 
 ### Day 81: Monday - July 2, 2018
-**Today's Progress**: Day 81 -
+**Today's Progress**: Day 81 - I missed the weekend as I was down in Dorset camping 🏕 today I've been trying to get an #Angular and #Nodejs app running again. I did a course in @treehouse for Create React App, and tonight I made a css cat that has keyframes eyes. :)
 
 ### Day 82: Tuesday - July 3, 2018
-**Today's Progress**: Day 82 -
+**Today's Progress**: Day 82 - Day 82 of #100DaysOfCode done some more #freecodecamp today finished the #cssflexbox section :) #frontendwebdeveloper 🇬🇧 ⌨️ 🖱️ 🎉
 
 ### Day 83: Wednesday - July 4, 2018
-**Today's Progress**: Day 83 -
+**Today's Progress**: Day 83 - done #cssgrid section on #freeCodeCamp today, and started on one of the projects. I've also been practicing my #illustrator skills. I know that's not coding. But I was getting really into it.
 
 ### Day 84: Thursday - July 5, 2018
-**Today's Progress**: Day 84 -
+**Today's Progress**: Day 84 - not much left!! I did one of the #freecodecamp projects today build a survey form and finished it. :) it's quiet fun styling forms
 
 ### Day 85: Friday - July 6, 2018
-**Today's Progress**: Day 85 -
+**Today's Progress**: Day 85 - I started on another #freeCodeCamp project today build a landing page. Another easy one to do. #landingpage #webdesign #css #HTML5 #frontenddev
 
-### Day 86: Saturday - July 7, 2018
-**Today's Progress**: Day 86 -
+Missed Saturday -- 
 
-### Day 87: Sunday - July 8, 2018
-**Today's Progress**: Day 87 -
+### Day 86: Sunday - July 8, 2018
+**Today's Progress**: Day 86 - Day 86 of #100DaysOfCode was finishing off my #freeCodeCamp project till someone broke my laptop and I missed yesterday was in Peak District.
 
 
-88,
-89,
-90,
-91,
-92,
-93,
-94,
-95,
-96,
-97,
-98,
-99,
-100
+// Week 14
 
-COMPLETE DATE - 
+### Day 87: Monday - July 9, 2018
+**Today's Progress**: Day 87 - finished the build a landing page for #freecodecamp also fixed up portfolio project to pass tests.
+
+### Day 88: Tuesday - 10th July 2018
+**Today's Progress**: I've been working on some styling at work today. My poor laptop looks like its dead. 😭 I don't understand how getting water on the charger plug 🔌 can break the laptop? Any advice is the motherboard is dead
+
+### Day 89: Wednesday - 11th July 2018
+**Today's Progress**: started the final project on #freeCodeCamp for responsive web design section. Wooo #css #html5 easy peasy
+
+### Day 90: Thursday - 12th July 2018
+**Today's Progress**: today's a very proud day for me. With only 10 days left 👈 I've completed the first section on #freeCodeCamp and got my #responsivewebdesign certificate yay, approximely 300 hours of coursework done!! Can go bk and finish the #js section now
+
+### Day 91: Friday - 13th July 2018
+**Today's Progress**: - forgot to post for 13th... having to make do with my old laptop, can't wait for my laptop to be bk its like loosing a leg too me :( - I've gone on to the #javascript section of #freecodecamp now to finish off all the new parts and other bits I needed to do
+
+### Day 92: Saturday - 14th July 2018
+**Today's Progress**: finished of the basic js section on #freeCodeCamp and done some @treehouse All on my old laptop which is so slow :/
+
+### Day 93: Sunday - 15th July 2018
+**Today's Progress**: nearly finished!!! Done some more @treehouse working my way through the #frontend track I have about 10 hours left to do!!
+
+
+
+-- Not sure what happened to Monday I could have sworn I never missed a week day. --
+// Week 15
+
+### Day 94: Tuesday - 17th July 2018
+**Today's Progress**: done some more #freeCodeCamp started on the ES6 JS section now. Was lso making a simple image profile ui page on @CodePen
+
+### Day 95: Wednesday 18th July 2018
+**Today's Progress**: carried on with this #codepen project. Added some js in. Its a image app. Your profile and images bit like Instagram.. Forgot to take pic today.
+
+### Day 96: Thrusday 19th July 2018
+**Today's Progress**: carried on with my little photo app I'm making on #codepen got a nice little image gallery with some #javascript need to do the filters now
+
+### Day 97: Friday 20th July 2018
+**Today's Progress**: I Did some @treehouse and did this coding test that my colleague was giving to interviewers. Nice little #javascript app about bees.
+
+### Day 98: Saturday 21st July 2018
+**Today's Progress**: was doing some more to the Bee #javascript game. I've got scores showing on the screen now and the bees turn red when they are hit, also a comment box to tell you what you hit.. I need to fix a few bugs and tidy up code.
+
+### Day 99: Sunday 22nd July 2018
+**Today's Progress**: OMG I've had enough of my crappy old laptop turning off on me tonight.
+So I've managed to do a bit of css grid on @treehouse but it's turned off on me 3 times now, over heating problem. I can't wait for my decent laptop to come bk to me.
+
+
+// Week 16
+
+### Day 100: 23rd July 2018
+**Today's Progress**: Day 100 - OMG I've finished woo!!! :D Finished off with some #CSSGrid on @treehouse I'll prob finish course tomorrow! End date did get delayed by 2 weeks due to being in Japan, but had so much fun doing this, I even have a nice new job to go to in a months time!
+
+COMPLETE DATE - 23rd July 2018
